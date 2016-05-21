@@ -54,13 +54,13 @@ dotsyncrc
 #ruby/rdebugrc
 #ruby/aprc
 #ruby/caprc
-#screen/screenrc
+screen/screenrc
 #shell/hushlogin
 #shell/urlview
 #ssh
 #subversion
-#task/task
-#task/taskrc
+task/task
+task/taskrc
 #tmux/tmux.conf
 #tmux/tmuxinator
 #vim/dotvim:.vim
